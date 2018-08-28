@@ -18,11 +18,11 @@ Citation
 If you use this code to produce results for your scientific publication, please refer to our CIKM 2017 paper:
 
 ```
-@inproceedings{oosterhuis2017sensitive,
-  title={Sensitive and Scalable Online Evaluation with Theoretical Guarantees},
+@inproceedings{oosterhuis2017balancing,
+  title={Balancing speed and quality in online learning to rank for information retrieval},
   author={Oosterhuis, Harrie and de Rijke, Maarten},
   booktitle={Proceedings of the 2017 ACM on Conference on Information and Knowledge Management},
-  pages={77--86},
+  pages={277--286},
   year={2017},
   organization={ACM}
 }
